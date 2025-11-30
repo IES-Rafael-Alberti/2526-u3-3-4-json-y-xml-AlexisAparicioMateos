@@ -56,12 +56,14 @@ El acceso al código fuente cada ejercicio se hace desde aquí:
 
 [Carpeta src](https://github.com/IES-Rafael-Alberti/2526-u3-3-4-json-y-xml-AlexisAparicioMateos/tree/master/src)
 
-### Ejemplos de Ejecución
-- **Entrada 1:** Descripción de la entrada y valor de prueba.
-- **Salida Esperada 1:** Explicación de la salida esperada y el resultado de la prueba.
-
 ### Resultados de Pruebas
-![Resultados por consola](img/1%20-%20Resultados%20por%20consola.png)
+**Resultados del ejercicio JSON:**
+
+![Resultados json por consola](img/1%20-%20Resultados%20json%20por%20consola.png)
+
+**Resultados del ejercicio XML:**
+
+![Resultados xml por consola](img/2%20-%20Resultados%20xml%20por%20consola.png)
 
 ## Referencias y Fuentes
 [Teoria sobre json](https://revilofe.github.io/section1/u03/teoria/PROG-U3.6.-ManejoJSON/)
